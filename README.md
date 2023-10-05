@@ -49,7 +49,7 @@ pip install cv2 streamlit
 Run the app using the following command:
 
 ```bash
-streamlit run new.py
+streamlit run main.py
 ```
 
 This will start the app, and you can access it in your web browser at http://localhost:8501.

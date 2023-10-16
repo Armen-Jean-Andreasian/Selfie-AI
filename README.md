@@ -24,16 +24,10 @@ To use the SelfieCamera-with-FaceRecognition app, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your_username/SelfieCamera-with-FaceRecognition.git
-   ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd SelfieCamera-with-FaceRecognition
+   git clone https://github.com/Armen-Jean-Andreasian/Selfie-AI.git
    ```
    
-3. Install the required dependencies. The app requires the following packages:
+2. Install the required dependencies. The app requires the following packages:
 
 - cv2
 - streamlit
@@ -66,7 +60,7 @@ I welcome contributions to the Selfie AI app! To contribute, please follow these
 2. Clone your forked repository to your local machine:
 
    ```bash
-   git clone https://github.com/your_username/SelfieCamera-with-FaceRecognition.git
+   git clone https://github.com/Armen-Jean-Andreasian/Selfie-AI.git
    ```
    
 3. Create a new branch for your contribution:

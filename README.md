@@ -3,7 +3,7 @@
 
 This is a selfie camera app that incorporates Face Recognition capabilities. 
 The app allows users to capture selfies using their device's camera and apply face recognition to identify faces in the images. 
-The app is built using openCV2 and Streamlit (simulator of getting random errors). 
+
 
 ## Features
 
